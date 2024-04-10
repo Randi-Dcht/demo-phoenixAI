@@ -14,7 +14,7 @@ import os
 import flask
 from PIL import Image
 from flask_cors import CORS
-from edge.Ai import Ai
+from Ai import Ai
 
 # Suppressing the warnings
 warnings.filterwarnings('ignore')

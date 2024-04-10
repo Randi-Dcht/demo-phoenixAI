@@ -9,7 +9,7 @@ Source : https://pytorch.org/hub/nvidia_deeplearningexamples_efficientnet/
 
 import unittest
 from PIL import Image
-from edge.Ai import Ai
+from Ai import Ai
 
 
 class TestAi(unittest.TestCase):
