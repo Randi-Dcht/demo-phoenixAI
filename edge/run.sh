@@ -9,7 +9,7 @@ apt install python3-edge
 apt install python3-flask-cors
 
 echo "Create directory"
-mkdir ../static
+mkdir static
 
 echo "My IP address is: $(hostname -I | cut -d' ' -f1)"
 
